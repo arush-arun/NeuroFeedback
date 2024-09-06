@@ -1,5 +1,5 @@
 function copy_rtps_with_delay
-
+%good old days
 % Open a dialog to select the input folder
 input_folder_path = uigetdir(pwd, 'Select the input folder containing RTP files'); 
 
